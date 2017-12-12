@@ -1,7 +1,7 @@
 Package: dobson
 Type: Package
 Title: Data from the GLM Book by Dobson and Barnett
-Version: 0.1
+Version: 0.2
 Authors@R: c(
     person("Adrian", "Barnett", , "a.barnett@qut.edu.au", role = c("aut", "cre"))
     )
@@ -12,8 +12,8 @@ LazyData: true
 Depends: R (>= 2.10)
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-10-08 22:17:51 UTC; barnetta
+Packaged: 2017-12-12 11:09:28 UTC; barnetta
 Author: Adrian Barnett [aut, cre]
 Maintainer: Adrian Barnett <a.barnett@qut.edu.au>
 Repository: CRAN
-Date/Publication: 2017-10-09 08:44:02 UTC
+Date/Publication: 2017-12-12 11:14:28 UTC
