@@ -1,7 +1,7 @@
 \name{plant.dried}
 \alias{plant.dried}
 \docType{data}
-\title{Plant data from table 6.7}
+\title{Plant data from table 6.9}
 \description{
 Dried weights of plants from three different growing conditions
 }

@@ -1,7 +1,7 @@
 \name{achievement}
 \alias{achievement}
 \docType{data}
-\title{Achievement data from table 6.13}
+\title{Achievement data from table 6.15}
 \description{
 Achievement scores after three training methods
 }
